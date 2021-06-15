@@ -9,9 +9,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjeetray&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
-  <a href="https://github.com/kumarjeetray/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kumarjeetray&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
