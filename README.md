@@ -43,7 +43,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 =======
-### Hi there 👋
 <h1 align="center"> 📊 Statistics: </h1>
 
 <p align="center">
