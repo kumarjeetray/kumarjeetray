@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> 📊 Stats: </h1>
+<h1 align="center"> 📊 Statistics: </h1>
 
 <p align="center">
   <a href="https://github.com/kumarjeetray/github-readme-stats">
