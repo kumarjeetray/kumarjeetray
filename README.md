@@ -35,7 +35,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+ <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kumarjeetray&theme=react&background=0d1117&border=666">
   </a>
   <br>
