@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p>
-  <img align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true" alt="side Image" align="right" width="300" height="auto"/>
+  <img align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true" alt="side Image" align="right" width="290" height="auto"/>
 </p>
  
 ### Boy Scout Rule
