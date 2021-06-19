@@ -22,6 +22,10 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </br>
 <hr>
+<p>
+  <img align='center' src="https://github.com/kumarjeetray/kumarjeetray/blob/main/Badge.png?raw=true" alt="side Image" align="Center" width="auto" height="350"/>
+</p>
+<hr>
 <h1 align="center"> 📊 Statistics: </h1>
 
 <p align="center">
