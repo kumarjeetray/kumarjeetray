@@ -1,4 +1,5 @@
-# Hi Fellow Coders <img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/Hi.gif" width="29" height="auto" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumarjeet%2C+Ray;a+guy+from+Kolkata%2C+India.)](https://git.io/typing-svg)
 <p>
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="auto" height="300"/>
 <img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="auto" height="300" />
@@ -31,10 +32,10 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 <p align="center">
   <a href="https://github.com/kumarjeetray/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kumarjeetray&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=kumarjeetray&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
   <a href="https://github.com/kumarjeetray/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjeetray&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjeetray&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
   <br>
 </p>
