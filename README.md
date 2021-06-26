@@ -24,8 +24,8 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </br>
 <hr>
-<p style="text-align:center;">
-  <img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/Badge.png?raw=true" align = "middle" alt="side Image" width="auto" height="350"/>
+<p align="Center">
+  <img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/Badge.png?raw=true" align = "center" width="auto" height="350"/>
 </p>
 <hr>
 <h1 align="center"> 📊 Statistics: </h1>
