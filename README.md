@@ -37,8 +37,10 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <a href="https://github.com/kumarjeetray/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjeetray&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  </p>
+    
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
+</p>
   <br>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
