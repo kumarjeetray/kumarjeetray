@@ -3,7 +3,7 @@
 
  <h1 align = "center">📬 Contact Me:</h1>
 <p align = "center>
-  <a href="https://www.linkedin.com/in/kumarjeet-ray-0292158a/"><img height="60" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kumarjeet-ray-0292158a/"><img height="60" src=https://github.com/kumarjeetray/kumarjeetray/blob/main/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/the_joker_clicks/" target="_blank"><img height="60" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>                                                                                                                                            
