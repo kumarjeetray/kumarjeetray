@@ -1,9 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumarjeet+Ray;a+coder+from+Kolkata%2C+India.)](https://git.io/typing-svg)
 
+<hr>
  <h1 align = "center">📬 Contact Me:</h1>
-<p align = "center>
-  <a href="https://www.linkedin.com/in/kumarjeet-ray-0292158a/"><img height="60" src=https://github.com/kumarjeetray/kumarjeetray/blob/main/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align = "center">
+  <a href="https://www.linkedin.com/in/kumarjeet-ray-0292158a/" target="_blank"><img height="60" src="https://raw.githubusercontent.com/kumarjeetray/kumarjeetray/main/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/the_joker_clicks/" target="_blank"><img height="60" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>                                                                                                                                            
